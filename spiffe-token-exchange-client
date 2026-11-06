@@ -1,9 +1,9 @@
 {
-  "client_id": "https://ufdeveloper.github.io/cimd/spiffe-token-exchange-client",
+  "client_id": "https://richadesai.github.io/cimd/spiffe-token-exchange-client",
   "client_name": "SPIFFE Token Exchange CIMD Test Client For auth.io",
   "application_type": "web",
   "spiffe_id": "spiffe://example.org/spiffe-token-exchange-client",
-  "spiffe_bundle_endpoint": "https://ufdeveloper.github.io/cimd/spiffe-keys-authio",
+  "spiffe_bundle_endpoint": "https://richadesai.github.io/cimd/spiffe-keys-authio",
   "grant_types": [
     "authorization_code",
     "urn:ietf:params:oauth:grant-type:token-exchange",
