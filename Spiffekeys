@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+  "kty": "RSA",
+  "alg": "RS256",
+  "kid": "oidc-app-key",
+  "use": "jwt-svid",
+  "e": "AQAB",
+  "n": "6pKu1f7oGpI7fsvCQ3XcuQ3aLPVeaL8VWTUwugQT4w8ZE_iAzur4lWRrdkhXG0ckjidCfjz_nMHwj1DedR8eGvzEvkCYy6EDhuZbWdthAJs1eELRyhxigJDZOGhY2ia_2SJQspsedk7TvmVvEDPK4xoZy-9S9PjpgFsQNEZc8Qnnz-_oJ_1rfvEgyvvkSLsHn_2DGtnwsmcjQUjyAJo-_5DPewbTdINVpko7v1WaNxgc8WDiMxc3VemsAh4OyvV-trGqnsAQyrNBWehniPQhcqtBicJHAKDX_ugLYHdZE8UBQiG8oCEqxF8sVJYp6ZlzYDGpGaEXXzT9pIxMKUJTVw"
+}
+  ]
+}
